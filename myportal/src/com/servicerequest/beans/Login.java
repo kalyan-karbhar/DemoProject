@@ -1,3 +1,4 @@
+//added comments
 package com.servicerequest.beans;
 public class Login {
 	private String userName;
